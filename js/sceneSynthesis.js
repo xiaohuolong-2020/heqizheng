@@ -31,18 +31,18 @@ function sceneSynthesis(curNum){
 	stage3.addChild(maskImg);
 
 	//装饰1
-	// maskImg = new createjs.Bitmap('images/scene/decorate_01.png');
-	// maskImg.x = 63;
-	// maskImg.y = 170;
-	// maskImg.rotation = -5;
-	// stage3.addChild(maskImg);
+	maskImg = new createjs.Bitmap('images/scene/decorate_01.png');
+	maskImg.x = 63;
+	maskImg.y = 170;
+	maskImg.rotation = -5;
+	stage3.addChild(maskImg);
 
-	// //装饰1
-	// maskImg = new createjs.Bitmap('images/scene/decorate_02.png');
-	// maskImg.x = 63;
-	// maskImg.y = 170;
-	// maskImg.rotation = -5;
-	// stage3.addChild(maskImg);
+	//装饰1
+	maskImg = new createjs.Bitmap('images/scene/decorate_02.png');
+	maskImg.x = 63;
+	maskImg.y = 170;
+	maskImg.rotation = -5;
+	stage3.addChild(maskImg);
 
 
 	
